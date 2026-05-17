@@ -105,7 +105,7 @@ DHT20 → ESP32-S3 → WiFi → MQTT → CoreIoT → Real-time Dashboard
 
 ## Dashboard Preview
 
-![CoreIoT Dashboard](dashboard.png)
+![CoreIoT Dashboard](image.png)
 
 ---
 
